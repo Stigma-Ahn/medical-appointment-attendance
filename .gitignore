@@ -1,0 +1,11 @@
+# Local research data and generated outputs
+/data/raw/
+/outputs/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.env
+.env.*
+!.env.example
